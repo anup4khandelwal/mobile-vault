@@ -1,0 +1,61 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R >> >> /MediaBox [0 0 612 792] /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 668 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+72 740 Td
+(FICTIONAL BANK OF INDIA) Tj
+T*
+(INTEREST CERTIFICATE FOR FY 2024-25) Tj
+T*
+(Customer Name: Rohan Mehta) Tj
+T*
+(PAN: ABCDE1234F) Tj
+T*
+(Account Number: 123456789012) Tj
+T*
+(IFSC: FBOI0001234) Tj
+T*
+(Mobile: +91 98765 43210) Tj
+T*
+(Email: rohan.mehta.fake@example.test) Tj
+T*
+(Interest credited this year: Rs. 18,432.00) Tj
+T*
+(This is a synthetic fixture for automated testing only. No real person,) Tj
+T*
+(account, or financial data is represented here. Padding text follows so) Tj
+T*
+(that the extractable character count per page clears the scanned-page) Tj
+T*
+(detection threshold used by the extraction pipeline during testing.) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1030
+%%EOF

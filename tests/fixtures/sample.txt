@@ -1,0 +1,9 @@
+FICTIONAL DIAGNOSTIC LABS
+LAB REPORT
+Patient Name: Asha Verma
+UHID: FAKE-UHID-00219
+DOB: 14-03-1988
+Aadhaar: 2345 6789 1234
+HAEMOGLOBIN: 13.2 g/dL (Normal: 12.0 - 15.5)
+Findings: all values within normal range for this synthetic fixture.
+This document is entirely fabricated for the mobile-vault test suite.

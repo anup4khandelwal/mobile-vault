@@ -1,0 +1,8 @@
+# Phase 0/1 (preflight, ingest, extract, index, CLI) need nothing beyond the
+# standard library - no numpy/pandas/torch/sentence-transformers, no
+# pydantic-core. Keep it that way; this runs on a 3.6 GB phone with the LLM
+# already loaded.
+#
+# Phase 4 (API) will add:
+#   flask
+#   waitress
